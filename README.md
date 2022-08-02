@@ -1,0 +1,3 @@
+# Word-Mapper
+Maps words to specific values etc.
+For personal project, will clean up later...
